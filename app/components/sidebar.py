@@ -2,6 +2,7 @@ import streamlit as st
 
 NAV_OPTIONS = [
     "Overview",
+    "Spend Overview",
     "Spend Analysis",
     "Supplier Insights",
     "Settings",
